@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurganovav" alt="kurganovav" /></a> </p>
 
-- 🌱 В настоящее время изучаю **Python, библиотеку Numpy и статистику**
+- 🌱 В настоящее время изучаю **Python, библиотеки Numpy, Pandas, Matplotlib и статистику**
 
 - 📫 e-mail **akurganov77@gmail.com**
 
