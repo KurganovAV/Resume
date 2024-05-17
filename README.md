@@ -6,8 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kurganovav" alt="kurganovav" /></a> </p>
 
-- 🌱 В настоящее время изучаю **Python, библиотеки Numpy, Pandas, Matplotlib и статистику**
-
+- 👨‍🎓 Получил диплом курса "Python для анализа данных".
+- 💪Продолжаю изучать Python на платформе Stepik
 - 📫 e-mail **akurganov77@gmail.com**
 
 
